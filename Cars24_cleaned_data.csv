@@ -1,0 +1,21 @@
+Cars,Model,Manufac_Year,Distance_in_km,Fuel,Transmission,Registration,Reg_unit,Actual_Price_in_Lakhs,Discounted_Price_in_Lakhs,EMI_Per_Month
+Maruti Swift, LXI,2020,32750,Petrol,Manual,HR,85,4.07,3.8,6713.0
+Renault Kwid, RXT 0.8,2016,77319,Petrol,Manual,UP,80,1.8,1.71,3804.0
+Maruti Swift, VDI ABS,2015,87121,Diesel,Manual,HR,14,3.81,3.18,
+Maruti Swift, LXI,2022,66173,Petrol,Manual,HR,14,4.37,4.21,7432.0
+Renault Kwid, RXT 0.8,2018,62135,Petrol,Manual,UP,80,2.42,1.63,2879.0
+Renault Kwid, RXT 0.8,2017,41654,Petrol,Manual,HR,79,2.5,1.5,2929.0
+KIA SELTOS, HTK 1.5 PETROL,2022,43539,Petrol,Manual,HR,16,8.64,7.5,13243.0
+Maruti Swift, VDI,2014,111698,Diesel,Manual,UP,16,2.92,1.98,
+Maruti New Wagon-R, VXI 1.2,2019,46641,Petrol,Manual,DL,2C,3.33,3.33,5886.0
+Honda Amaze, 1.2L I-VTEC VX,2018,63933,Petrol,Manual,DL,11,4.24,3.79,6690.0
+Ford FREESTYLE, AMBIENTE 1.5 DIESEL,2019,55165,Diesel,Manual,UP,25,4.99,2.99,9931.0
+Maruti Swift, LXI (O),2017,79321,Petrol,Manual,DL,8C,2.7,2.5,4886.0
+Maruti Baleno, DELTA PETROL 1.2,2016,67702,Petrol,Manual,HR,26,3.21,3.21,7142.0
+Toyota Glanza, S,2023,60527,Petrol,Manual,HR,26,5.64,5.0,8826.0
+Skoda SLAVIA, AMBITION 1.0L TSI MT,2022,78434,Petrol,Manual,HR,44,11.13,7.64,13492.0
+Hyundai Grand i10, SPORTZ 1.2 KAPPA VTVT,2016,82996,Petrol,Manual,HR,12,2.75,2.75,6123.0
+Maruti Wagon R 1.0, LXI,2014,87492,Petrol,Manual,HR,52,2.23,1.38,4580.0
+Maruti Baleno, ALPHA PETROL 1.2,2016,49803,Petrol,Manual,DL,12,3.71,3.5,7786.0
+Tata NEXON, XZ PLUS (L) DARK EDITION,2022,55797,Petrol,Manual,UP,27,8.04,7.12,12569.0
+Honda City, 1.5L I-VTEC V MT,2016,58953,Petrol,Manual,HR,26,3.79,3.79,8441.0
